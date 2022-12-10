@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: "Nunito", sans-serif;
+  color: #6d5d4b;
+  font-weight: 300;
+  line-height: 1.6; }
+
+.container {
+  display: grid;
+  grid-template-rows: 80vh auto 40vw; }
+
+.sidebar {
+  background-color: #54483a; }
+
+.header {
+  background-color: #c69963; }
+
+.relators {
+  background-color: #101d2c; }
+
+.features {
+  background-color: #54483a; }
+
+.story__pictures {
+  background-color: #c69963; }
+
+.story__content {
+  background-color: #101d2c; }
+
+.homes {
+  background-color: #101d2c; }
+
+.gallery {
+  background-color: #54483a; }
+
+.footer {
+  background-color: #101d2c; }
