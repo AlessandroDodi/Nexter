@@ -2,6 +2,7 @@
   background-color: $color-grey-light-1;
   grid-column: center-start / center-end;
   margin: 15rem 0;
+  padding: 3rem;
   display: grid;
   /* most useful css line in the history of css */
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
