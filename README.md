@@ -1,7 +1,7 @@
 # Nexter
 Nexter landing page: Project from the Udemy course "Advanced CSS and Sass"
 
-The project has been deployed with Netlify at the following link: <a href="nexter-adodi.netlify.app">nexter-adodi.netlify.app<a/>
+The project has been deployed with Netlify at the following link: https://nexter-adodi.netlify.app/
 
 <img width="1434" alt="landing" src="https://user-images.githubusercontent.com/96247758/206913829-72cc9d69-2c58-448b-b08f-54867ea3dc3d.png">
 
